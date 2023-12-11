@@ -5,19 +5,19 @@ This repository contains all of the study materials for the RHCDS 2024 Computer 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python Intro
 
 ### Day 2
-Rock Paper Scissors Game
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rock Paper Scissors Game
 
 ### Day 3
-Pygame Zero and Flappy Bird
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pygame Zero and Flappy Bird
 
 ### Day 4
-Intro to Java Graphics
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intro to Java Graphics
 
 ### Day 5
-Project Worktime for Java Graphics
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Worktime for Java Graphics
 
 ### Day 6
-Chat-GPT and LLMs
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chat-GPT and LLMs
 
 ### To Do's for this Repo:
 - Add a curriculum guide that describes how to instruct the material
