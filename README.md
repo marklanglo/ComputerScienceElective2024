@@ -12,10 +12,21 @@ This repository contains all of the study materials for the RHCDS 2024 Computer 
 - Python Introduction Functions
 
 ## Day 2
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rock Paper Scissors Game
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rock Paper Scissors
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The second day we'll start it with a class-wide rock paper scissors game.  After that is done, we'll move onto the rock paper scissors python game.  The rock paper scissors python game is a premade game with some of the logic stripped away leaving a skeleton to be filled in.  Before they start the game we'll do an overview of all the problems on the game before letting them free to try and fix the game.
+
+### Activity List:
+- Rock Paper Scissors Tournament (Conga Line)
+- Rock Paper Scissors in Python
 
 ## Day 3
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pygame Zero and Flappy Bird
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pygame Zero and Flappy Bird
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The third day is where we introduce the idea of packages.  The package of choice is a simple one known as pygame zero, and it can allow us to make an actual game.  The focus will be looking over the flappy bird project solving the functions that have been removed, and there will also be instruction on how simple it is to customize the game.
+
+### Activity List:
+- Flappy Bird in Pygame Zero
 
 ## Day 4
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intro to Java Graphics
