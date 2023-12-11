@@ -18,3 +18,8 @@ Project Worktime for Java Graphics
 
 ### Day 6
 Chat-GPT and LLMs
+
+### To Do's for this Repo:
+- Add a curriculum guide that describes how to instruct the material
+- Add days 4 - 6
+- Add Entries for every day roughly describing the tasks
