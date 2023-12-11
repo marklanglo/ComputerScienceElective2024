@@ -31,11 +31,29 @@ This repository contains all of the study materials for the RHCDS 2024 Computer 
 ## Day 4
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intro to Java Graphics
 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write summary here
+
+### Activity List:
+- Rock Paper Scissors Tournament (Conga Line)
+- Rock Paper Scissors in Python
+
 ## Day 5
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Worktime for Java Graphics
 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write summary here
+
+### Activity List:
+- Rock Paper Scissors Tournament (Conga Line)
+- Rock Paper Scissors in Python
+
 ## Day 6
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chat-GPT and LLMs
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write summary here
+
+### Activity List:
+- 
+- Madlibs
 
 ### To Do's for this Repo:
 - Add a curriculum guide that describes how to instruct the material
