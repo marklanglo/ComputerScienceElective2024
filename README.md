@@ -6,7 +6,7 @@ This repository contains all of the study materials for the RHCDS 2024 Computer 
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The first day is a quick overview of coding before we dive straight into python.  The first activity we do is "What Would Python Do?" (WWPD), which is a way to get students to start comprehending what code is and how it's structured.  The second activity is "PythonIntro" which is a group of python functions for the students to work through.  There are extra functions at the bottom of the file for those that want something a little harder to work on.
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Activity List:
+### Activity List:
 - Coding Crash Course
 - What Would Python Do? (WWPD)
 - Python Introduction Functions
