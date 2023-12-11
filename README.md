@@ -34,8 +34,7 @@ This repository contains all of the study materials for the RHCDS 2024 Computer 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write summary here
 
 ### Activity List:
-- Rock Paper Scissors Tournament (Conga Line)
-- Rock Paper Scissors in Python
+- Introduction to Java
 
 ## Day 5
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Worktime for Java Graphics
@@ -43,8 +42,7 @@ This repository contains all of the study materials for the RHCDS 2024 Computer 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write summary here
 
 ### Activity List:
-- Rock Paper Scissors Tournament (Conga Line)
-- Rock Paper Scissors in Python
+- Project Worktime
 
 ## Day 6
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chat-GPT and LLMs
