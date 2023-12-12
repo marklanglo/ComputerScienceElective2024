@@ -14,7 +14,7 @@ This repository contains all of the study materials for the RHCDS 2024 Computer 
 ## Day 2
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rock Paper Scissors
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The second day we'll start it with a class-wide rock paper scissors game.  After that is done, we'll move onto the rock paper scissors python game.  The rock paper scissors python game is a premade game with some of the logic stripped away leaving a skeleton to be filled in.  Before they start the game we'll do an overview of all the problems on the game before letting them free to try and fix the game.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The second day we'll start it with a class-wide rock paper scissors game.  After that is done, we'll move onto the rock paper scissors python game.  The rock paper scissors python game is a premade game with some of the logic stripped away leaving a skeleton to be filled in.  Before we start the game we'll do an overview of all the problems on the game before letting them free to try and fix the game.
 
 <p align="center">
   <img src="./Screenshots/rps_demo.gif" alt="Rock Paper Scissors Demo" width="625">
@@ -40,7 +40,7 @@ This repository contains all of the study materials for the RHCDS 2024 Computer 
 ## Day 4
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intro to Java Graphics
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write summary here
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the fourth day we will transition from Python to Java and introduce everyone to our main Java project for this class. The project will be focused on using code to combine different shapes to make fun graphics!
 
 ### Activity List:
 - Introduction to Java
@@ -48,7 +48,7 @@ This repository contains all of the study materials for the RHCDS 2024 Computer 
 ## Day 5
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Worktime for Java Graphics
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write summary here
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Day 5 will be a full work period to build out your Java projects.
 
 ### Activity List:
 - Project Worktime
@@ -56,11 +56,12 @@ This repository contains all of the study materials for the RHCDS 2024 Computer 
 ## Day 6
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chat-GPT and LLMs
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write summary here
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the 6th and final day of the class, we will transition to ChatGPT and discuss how "prompt engineering" can be used today to solve a wide variety of problems. We will go over different prompt types and experiment with how to use ChatGPT most effectively. We will also create mad libs and even have a fun Kahoot at the end!
 
 ### Activity List:
-- 
+- ChatGPT prompt engineering
 - Madlibs
+- Kahoot!
 
 ### To Do's for this Repo:
 - Add a curriculum guide that describes how to instruct the material
