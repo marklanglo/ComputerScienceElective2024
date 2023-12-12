@@ -42,9 +42,7 @@ This repository contains all of the study materials for the RHCDS 2024 Computer 
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the fourth day we will transition from Python to Java and introduce everyone to our main Java project for this class. The project will be focused on using code to combine different shapes to make fun graphics!
 
-<p align="center">
-  <img src="./Desktop/Screenshot 2023-12-12 at 9.59.00 AM.png" alt="Java Graphics Example" width="625">
-</p>
+
 
 ### Activity List:
 - Introduction to Java
