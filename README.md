@@ -16,6 +16,10 @@ This repository contains all of the study materials for the RHCDS 2024 Computer 
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The second day we'll start it with a class-wide rock paper scissors game.  After that is done, we'll move onto the rock paper scissors python game.  The rock paper scissors python game is a premade game with some of the logic stripped away leaving a skeleton to be filled in.  Before they start the game we'll do an overview of all the problems on the game before letting them free to try and fix the game.
 
+<p align="center">
+  <img src="./Screenshots/rps_demo.gif" alt="Rock Paper Scissors Demo" width="625">
+</p>
+
 ### Activity List:
 - Rock Paper Scissors Tournament (Conga Line)
 - Rock Paper Scissors in Python
