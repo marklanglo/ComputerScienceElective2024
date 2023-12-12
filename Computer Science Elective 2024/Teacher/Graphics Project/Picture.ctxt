@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Picture
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\n\ Draw\ this\ picture.\ \ The\ colors\ available\ are\:\ red,\ black,\ blue,\ yellow,\ green,\n\ magenta,\ white,\ gray,\ orange,\ pink,\ dark\ gray,\ light\ gray,\ and\ cyan.\ \ \n\ In\ the\ changeColor\ method,\ supply\ the\ color\ as\ a\ String\ in\ all\ lowercase\ as\n\ written\ above.\n\ \n\ A\ basic\ Circle\ goes\ like\ this\:\n\ Circle\ sun\ \=\ new\ Circle();\n\ sun.changeColor("yellow");\n\ sun.moveHorizontal(240);\n\ sun.moveVertical(50);\n\ sun.changeSize(60);\n\ sun.makeVisible();\n\ \n
+numComments=3
