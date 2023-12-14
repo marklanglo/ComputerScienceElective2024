@@ -115,7 +115,8 @@ def CountTheVowels(string):
                 
     #add a count variable to use as an iterator
 
-    for letter.lower() in string:
+    for letter in string.lower():
+        pass #remove pass once done with if statement
         #if-statement goes inside the for loop
 
     return 1 #replace 1 with the number of vowel
