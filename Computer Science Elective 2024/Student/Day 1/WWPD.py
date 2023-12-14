@@ -45,9 +45,9 @@
 
 def GreaterThanTen(a):
     if a > 10:
-        print(a)
+        return a
     else:
-        print(0)
+        return 0
         
 # WWPD:
 #       a = 5       Solution is 0
