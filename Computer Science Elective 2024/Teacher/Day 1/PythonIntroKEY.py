@@ -222,10 +222,12 @@ def SumDigits(num):
 #==========================================
 
 def FibonacciSeries(n):
-    
+
+    #We initialize the fibonacci series to the first two values and set the index to 2
     fib_list = [0, 1]
     position_in_list = 2
-    
+
+    #We increment the list and add the previous two values together to append them
     while position_in_list <= n:
         fib_list.append(fib_list[position_in_list-1] + fib_list[position_in_list-2])
         position_in_list = position_in_list + 1
