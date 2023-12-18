@@ -68,4 +68,4 @@ This repository contains all of the study materials for the RHCDS 2024 Computer 
 - Kahoot!
 
 ### To Do's for this Repo:
-- Add the pdf or google docs to the repo in some form or fashion for the chatgpt day
+- add pygame installation instructions to the teacher profile to streamline the process
