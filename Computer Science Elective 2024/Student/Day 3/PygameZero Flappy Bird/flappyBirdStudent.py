@@ -138,7 +138,12 @@ class Pipe:
         
         #1. We want to update the actors position using the speed variable we
         #	pass into our update function.  We need to figure out how to update
-        #	our x position with the speed. 
+        #	our x position with the speed.
+        #
+        #   HINT:
+        #         You can access and change the x position of the actor
+        #         for the pipe with the following code:
+        #             self.actor_top.x OR self.actor_bot.x
         pass
         #self.			 -= 		
         #self.			 -= 		
@@ -219,6 +224,9 @@ class Player:
                 
                 #2. The above code is how the bird falls during the losing condition, below you need to
                 #write the code for how the bird normally falls.  Uncomment by removing the '#'s
+
+                # HINT–You will need the following:
+                # self.velocity, self.gravity, self.actor.y
                 
                 pass #delete the pass when you think you have your solution
                 
@@ -326,11 +334,12 @@ def draw():
     #
     #===================
     
-    #3. Experiment with all of the below text functions (from here down to line 375
+    #3. Experiment with all of the below text functions (from here down to line 383
     #		Note: To edit the messages themselves, look near the top of the file for the project
     #		Constants
     #Link to Text Function Documentation: https://pygame-zero.readthedocs.io/en/stable/ptext.html
     #Use google color picker to help select colors
+    # If you have extra time, you may create your own additional text
     
     #Score text
     screen.draw.text(current_score_text, (20, 100),
@@ -475,9 +484,9 @@ def check_collision():
         
         pass #remove this pass once you believe you have a correct answer
     
-        #4. Consider all 4 losing conditions and try to use functions from
+        #4. Consider all 4 losing conditions and use functions from
         #	the player class to check these conditions in the if statement below
-        #		Uncomment the if statement by deleting the #'s, and remove the "if False:"
+        #	Uncomment the if statement by deleting the #'s, and remove the "if False:"
         
 #         if player.						
 #           or player.						
