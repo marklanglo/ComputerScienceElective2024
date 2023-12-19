@@ -17,7 +17,7 @@
 #        print("text string goes here")
 #
 #==========================================
-def helloWorld():
+def hello_world():
     
     #Code for hello world goes here
     
@@ -30,7 +30,7 @@ def helloWorld():
 # use print again to state the result.
 #==========================================
 
-def posOrNeg(a):
+def pos_or_neg(a):
     
     #delete pass and enter your code
     
@@ -121,7 +121,7 @@ def mean(num_list):
 #   Input: CountTheVowels("Artificial Intelligence")
 #   Output: 10
 
-def countTheVowels(string):
+def count_the_vowels(string):
     
     #initialize a vowels list
                 
@@ -156,7 +156,7 @@ def countTheVowels(string):
 #
 #==========================================
 
-def oddEven(num):
+def odd_even(num):
     
     # Code to check number for odd/even goes here
     
@@ -174,7 +174,7 @@ def oddEven(num):
 #
 #==========================================
 
-def reverseString(input_string):
+def reverse_string(input_string):
     
     # Code to reverse the string goes here
     
@@ -193,7 +193,7 @@ def reverseString(input_string):
 #
 #==========================================
 
-def isPrime(number):
+def is_prime(number):
     
     # Code to check if the number is prime goes here
     
@@ -213,7 +213,7 @@ def isPrime(number):
 #
 #==========================================
 
-def sumDigits(num):
+def sum_digits(num):
     
     #Code to generate sum of digits goes here
     
@@ -232,7 +232,7 @@ def sumDigits(num):
 #
 #==========================================
 
-def fibonacciSeries(n):
+def fibonacci_series(n):
     
     # Code to generate Fibonacci series goes here
     
@@ -252,7 +252,7 @@ def fibonacciSeries(n):
 #
 #==========================================
 
-def wordFrequency(sentence):
+def word_frequency(sentence):
     
     # Code to calculate word frequency goes here
     
