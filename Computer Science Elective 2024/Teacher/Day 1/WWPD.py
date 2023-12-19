@@ -43,7 +43,7 @@
 #
 #==========================================================
 
-def GreaterThanTen(a):
+def greater_than_ten(a):
     if a > 10:
         print(a)
     else:
@@ -56,7 +56,7 @@ def GreaterThanTen(a):
 #       a = 15      Solution is 15
 
 
-def NumberSelector(a, b, c):
+def number_selector(a, b, c):
     if (a + b) == 3:
         return a
     elif (c - b) >= 6:
@@ -70,7 +70,7 @@ def NumberSelector(a, b, c):
 #       a = 3, b = 6, c = 7      Solution is 6
 #       a = 1, b = 2, c = 18     Solution is 1
 
-def FunkyNum(a):
+def funky_num(a):
     if a % 2 == 0:
         return "yes"
     else:
