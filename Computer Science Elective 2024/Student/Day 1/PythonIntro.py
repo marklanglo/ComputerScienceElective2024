@@ -17,12 +17,24 @@
 #        print("text string goes here")
 #
 #==========================================
-def HelloWorld():
+def helloWorld():
     
     #Code for hello world goes here
     
     pass #delete this line of code after you think you have a solution
 
+#====== Problem Name: Positive or Negative =========
+#     Description: The goal of this program is to determine whether 
+# the input is positive, negative, or zero. You will need to use if,
+# elif, and else to cover these three scenarios. Then you will need to
+# use print again to state the result.
+#==========================================
+
+def posOrNeg(a):
+    
+    #delete pass and enter your code
+    
+    pass
 
 #========== Problem Name: Mean ============
 #     Description: The mean is the mathematical
@@ -56,7 +68,7 @@ def HelloWorld():
 #	Input: Mean((-3, 0, 3, 6))
 #	Output: 1.5
 
-def Mean(num_list):
+def mean(num_list):
     
     #Code to determine Mean Goes Here:
     
@@ -109,7 +121,7 @@ def Mean(num_list):
 #   Input: CountTheVowels("Artificial Intelligence")
 #   Output: 10
 
-def CountTheVowels(string):
+def countTheVowels(string):
     
     #initialize a vowels list
                 
@@ -144,7 +156,7 @@ def CountTheVowels(string):
 #
 #==========================================
 
-def OddEven(num):
+def oddEven(num):
     
     # Code to check number for odd/even goes here
     
@@ -162,7 +174,7 @@ def OddEven(num):
 #
 #==========================================
 
-def ReverseString(input_string):
+def reverseString(input_string):
     
     # Code to reverse the string goes here
     
@@ -181,7 +193,7 @@ def ReverseString(input_string):
 #
 #==========================================
 
-def IsPrime(number):
+def isPrime(number):
     
     # Code to check if the number is prime goes here
     
@@ -201,7 +213,7 @@ def IsPrime(number):
 #
 #==========================================
 
-def SumDigits(num):
+def sumDigits(num):
     
     #Code to generate sum of digits goes here
     
@@ -220,7 +232,7 @@ def SumDigits(num):
 #
 #==========================================
 
-def FibonacciSeries(n):
+def fibonacciSeries(n):
     
     # Code to generate Fibonacci series goes here
     
@@ -240,7 +252,7 @@ def FibonacciSeries(n):
 #
 #==========================================
 
-def WordFrequency(sentence):
+def wordFrequency(sentence):
     
     # Code to calculate word frequency goes here
     
