@@ -1,5 +1,5 @@
 #==========================================
-# Programmed By	: Mr. Wiedeman
+# Programmed By	: Mr. Wiedeman and Mr. B
 # Date			: 12/11/2023
 #==========================================
 
@@ -17,7 +17,7 @@
 #        print("text string goes here")
 #
 #==========================================
-def HelloWorld():
+def hello_world():
     
     print("Hello, World!")
 
@@ -28,7 +28,7 @@ def HelloWorld():
 # use print again to state the result.
 #==========================================
 
-def posOrNeg(a):
+def pos_or_neg(a):
     if a > 0:
         print("positive")
     elif a < 0:
@@ -59,16 +59,16 @@ def posOrNeg(a):
 #==========================================
 
 #Input/Output Examples:
-#	Input: Mean((4, 6, 8))
+#	Input: mean((4, 6, 8))
 #	Output: 6
 #
-#	Input: Mean((10, 15, 20, 25))
+#	Input: mean((10, 15, 20, 25))
 #	Output: 17.5
 #
-#	Input: Mean((-3, 0, 3, 6))
+#	Input: mean((-3, 0, 3, 6))
 #	Output: 1.5
 
-def Mean(num_list):
+def mean(num_list):
     
     return sum(num_list)/len(num_list)
 
@@ -119,7 +119,7 @@ def Mean(num_list):
 #   Input: CountTheVowels("Artificial Intelligence")
 #   Output: 10
 
-def CountTheVowels(string):
+def count_the_vowels(string):
     
     vowels = ["a", "e", "i", "o", "u"]
     count = 0
@@ -153,7 +153,7 @@ def CountTheVowels(string):
 #
 #==========================================
 
-def OddEven(num):
+def odd_even(num):
     
     if num % 2 == 0:
         return "Even"
@@ -172,7 +172,7 @@ def OddEven(num):
 #
 #==========================================
 
-def ReverseString(input_string):
+def reverse_string(input_string):
     
     return ''.join(reversed(input_string))
 
@@ -189,7 +189,7 @@ def ReverseString(input_string):
 #
 #==========================================
 
-def IsPrime(number):
+def is_prime(number):
     
     for i in range(2, num):
         if num % i == 0:
@@ -210,7 +210,7 @@ def IsPrime(number):
 #
 #==========================================
 
-def SumDigits(num):
+def sum_digits(num):
     
     sum = 0
     
@@ -235,7 +235,7 @@ def SumDigits(num):
 #
 #==========================================
 
-def FibonacciSeries(n):
+def fibonacci_series(n):
 
     #We initialize the fibonacci series to the first two values and set the index to 2
     fib_list = [0, 1]
@@ -263,7 +263,7 @@ def FibonacciSeries(n):
 #
 #==========================================
 
-def WordFrequency(sentence):
+def word_frequency(sentence):
     # Initialize an empty dictionary to store word frequencies
     word_freq = {}
 
