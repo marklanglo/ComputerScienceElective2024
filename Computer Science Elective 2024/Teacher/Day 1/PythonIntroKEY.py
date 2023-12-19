@@ -21,7 +21,21 @@ def HelloWorld():
     
     print("Hello, World!")
 
+#====== Problem Name: Positive or Negative =========
+#     Description: The goal of this program is to determine whether 
+# the input is positive, negative, or zero. You will need to use if,
+# elif, and else to cover these three scenarios. Then you will need to
+# use print again to state the result.
+#==========================================
 
+def posOrNeg(a):
+    if a > 0:
+        print("positive")
+    elif a < 0:
+        print("negative")
+    else:
+        print("zero")
+    
 #========== Problem Name: Mean ============
 #     Description: The mean is the mathematical
 # average of a group of numbers.  'numList'
