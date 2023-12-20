@@ -31,7 +31,7 @@ def slow_print(input_string, delay=0.1):
 #
 #====================================================
 
-#Lists
+#List of strings
 move_list = []			#1. What moves should we put?
 
 #Strings
