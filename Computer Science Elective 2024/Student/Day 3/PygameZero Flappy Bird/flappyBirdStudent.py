@@ -144,9 +144,11 @@ class Pipe:
         #         You can access and change the x position of the actor
         #         for the pipe with the following code:
         #             self.actor_top.x OR self.actor_bot.x
-        pass
-        #self.			 -= 		
-        #self.			 -= 		
+        
+        pass #delete the pass when you think you have your solution
+        
+        #self.			 -= 		    #update the top pipe's x
+        #self.			 -= 		    #update the bottom pipe's x
 
     #returns the top pipe's hitbox
     def top_hitbox(self):
@@ -230,8 +232,8 @@ class Player:
                 
                 pass #delete the pass when you think you have your solution
                 
-                #			 += 			
-                #			 += 			
+                #			 += 			    #update the velocity
+                #			 += 			    #update the actor y position
 
         #update the rotation of the bird
         if self.velocity > 0 and self.actor.angle > self.min_angle:
