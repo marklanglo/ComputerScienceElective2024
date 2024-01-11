@@ -143,7 +143,7 @@ class Pipe:
         #   HINT:
         #         You can access and change the x position of the actor
         #         for the pipe with the following code:
-        #             self.actor_top.x OR self.actor_bot.x
+        #             self.actor_top.x AND self.actor_bot.x
         
         pass #delete the pass when you think you have your solution
         
@@ -489,6 +489,9 @@ def check_collision():
         #4. Consider all 4 losing conditions and use functions from
         #	the player class to check these conditions in the if statement below
         #	Uncomment the if statement by deleting the #'s, and remove the "if False:"
+        #
+        #   HINT: You will need to use the check_collision(otherActor) function from the Player class.
+        #         To check the player's position you will need to use player.actor.x or player.actor.y
         
 #         if player.						
 #           or player.						
