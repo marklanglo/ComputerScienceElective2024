@@ -52,6 +52,7 @@ while game_active:
     
     #3. This is where the ai does a move, we need to add an upper and lower bound
     #for rand_int so we can select a random move from the move list
+    #HINT: Remember that indexing begins with 0!
     ai_move = move_list[randint( , )]
     
     
