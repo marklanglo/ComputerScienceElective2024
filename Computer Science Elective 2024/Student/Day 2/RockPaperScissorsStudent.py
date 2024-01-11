@@ -65,7 +65,7 @@ while game_active:
     time.sleep(1)
     
     
-    #5. determine what should be in the elif for the game logic to function
+    #5. Determine what should be in the elif for the game logic to function
     if player_move == ai_move:
         print("It's a tie!")
     elif (
@@ -81,7 +81,7 @@ while game_active:
     #6. Type a message that will prompt the player and ask whether they would like to play again
     play_again = input("		").lower()
     if play_again != "yes":
-        #7. figure out what code goes here in order to make the game loop end
+        #7. Figure out what code goes here in order to make the game loop end
     
 
 
