@@ -52,20 +52,10 @@ This repository contains all of the study materials for the RHCDS 2024 Computer 
 ## Day 5
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Worktime for Java Graphics
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Day 5 will be a full work period to build out your Java projects.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Day 5 will be a full work period to build out your Java projects and show your friends.
 
 ### Activity List:
 - Project Worktime
-
-## Day 6
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chat-GPT and LLMs
-
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the 6th and final day of the class, we will transition to ChatGPT and discuss how "prompt engineering" can be used today to solve a wide variety of problems. We will go over different prompt types and experiment with how to use ChatGPT most effectively. We will also create mad libs and even have a fun Kahoot at the end!
-
-### Activity List:
-- ChatGPT prompt engineering
-- Madlibs
-- Kahoot!
 
 ### To Do's for this Repo:
 - add pygame installation instructions to the teacher profile to streamline the process
