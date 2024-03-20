@@ -2,7 +2,7 @@
 This repository contains all of the study materials for the RHCDS 2024 Computer Science Elective.
 
 
-Elective Pitch: This Elective Period we're offering a computer coding and game design elective.  It's open to all levels of experience, and we'll be working on some fun projects we think you'll enjoy.  We especially encourage all of the 8th graders to sign up since this will be the last opportunity to join our coding class.
+Elective Pitch: This Elective Period we're offering a computer coding and game design elective.  It's open to all levels of experience, and we'll be working on some fun projects we think you'll enjoy.  We especially encourage our 8th graders to sign up since this will be the last opportunity to join our coding class.
 
 ## Session 1
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Python
