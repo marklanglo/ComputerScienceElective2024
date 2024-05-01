@@ -70,5 +70,3 @@ Elective Pitch: This Elective Period we're offering a computer coding and game d
 - Madlibs
 - Kahoot!
 
-### To Do's for this Repo:
-- add pygame installation instructions to the teacher profile to streamline the process
